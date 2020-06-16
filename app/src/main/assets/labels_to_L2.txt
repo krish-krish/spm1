@@ -1,0 +1,3003 @@
+tench	t
+goldfish	g
+great white shark	g
+tiger shark	t
+hammerhead	h
+electric ray	e
+stingray	s
+cock	c
+hen	h
+ostrich	o
+brambling	b
+goldfinch	g
+house finch	h
+junco	j
+indigo bunting	i
+robin	r
+bulbul	b
+jay	j
+magpie	m
+chickadee	c
+water ouzel	w
+kite	k
+bald eagle	b
+vulture	v
+great grey owl	g
+European fire salamander	E
+common newt	c
+eft	e
+spotted salamander	s
+axolotl	a
+bullfrog	b
+tree frog	t
+tailed frog	t
+loggerhead	l
+leatherback turtle	l
+mud turtle	m
+terrapin	t
+box turtle	b
+banded gecko	b
+common iguana	c
+American chameleon	A
+whiptail	w
+agama	a
+frilled lizard	f
+alligator lizard	a
+Gila monster	G
+green lizard	g
+African chameleon	A
+Komodo dragon	K
+African crocodile	A
+American alligator	A
+triceratops	t
+thunder snake	t
+ringneck snake	r
+hognose snake	h
+green snake	g
+king snake	k
+garter snake	g
+water snake	w
+vine snake	v
+night snake	n
+boa constrictor	b
+rock python	r
+Indian cobra	I
+green mamba	g
+sea snake	s
+horned viper	h
+diamondback	d
+sidewinder	s
+trilobite	t
+harvestman	h
+scorpion	s
+black and gold garden spider	b
+barn spider	b
+garden spider	g
+black widow	b
+tarantula	t
+wolf spider	w
+tick	t
+centipede	c
+black grouse	b
+ptarmigan	p
+ruffed grouse	r
+prairie chicken	p
+peacock	p
+quail	q
+partridge	p
+African grey	A
+macaw	m
+sulphur-crested cockatoo	s
+lorikeet	l
+coucal	c
+bee eater	b
+hornbill	h
+hummingbird	h
+jacamar	j
+toucan	t
+drake	d
+red-breasted merganser	r
+goose	g
+black swan	b
+tusker	t
+echidna	e
+platypus	p
+wallaby	w
+koala	k
+wombat	w
+jellyfish	j
+sea anemone	s
+brain coral	b
+flatworm	f
+nematode	n
+conch	c
+snail	s
+slug	s
+sea slug	s
+chiton	c
+chambered nautilus	c
+Dungeness crab	D
+rock crab	r
+fiddler crab	f
+king crab	k
+American lobster	A
+spiny lobster	s
+crayfish	c
+hermit crab	h
+isopod	i
+white stork	w
+black stork	b
+spoonbill	s
+flamingo	f
+little blue heron	l
+American egret	A
+bittern	b
+crane	c
+limpkin	l
+European gallinule	E
+American coot	A
+bustard	b
+ruddy turnstone	r
+red-backed sandpiper	r
+redshank	r
+dowitcher	d
+oystercatcher	o
+pelican	p
+king penguin	k
+albatross	a
+grey whale	g
+killer whale	k
+dugong	d
+sea lion	s
+Chihuahua	C
+Japanese spaniel	J
+Maltese dog	M
+Pekinese	P
+Shih-Tzu	S
+Blenheim spaniel	B
+papillon	p
+toy terrier	t
+Rhodesian ridgeback	R
+Afghan hound	A
+basset	b
+beagle	b
+bloodhound	b
+bluetick	b
+black-and-tan coonhound	b
+Walker hound	W
+English foxhound	E
+redbone	r
+borzoi	b
+Irish wolfhound	I
+Italian greyhound	I
+whippet	w
+Ibizan hound	I
+Norwegian elkhound	N
+otterhound	o
+Saluki	S
+Scottish deerhound	S
+Weimaraner	W
+Staffordshire bullterrier	S
+American Staffordshire terrier	A
+Bedlington terrier	B
+Border terrier	B
+Kerry blue terrier	K
+Irish terrier	I
+Norfolk terrier	N
+Norwich terrier	N
+Yorkshire terrier	Y
+wire-haired fox terrier	w
+Lakeland terrier	L
+Sealyham terrier	S
+Airedale	A
+cairn	c
+Australian terrier	A
+Dandie Dinmont	D
+Boston bull	B
+miniature schnauzer	m
+giant schnauzer	g
+standard schnauzer	s
+Scotch terrier	S
+Tibetan terrier	T
+silky terrier	s
+soft-coated wheaten terrier	s
+West Highland white terrier	W
+Lhasa	L
+flat-coated retriever	f
+curly-coated retriever	c
+golden retriever	g
+Labrador retriever	L
+Chesapeake Bay retriever	C
+German short-haired pointer	G
+vizsla	v
+English setter	E
+Irish setter	I
+Gordon setter	G
+Brittany spaniel	B
+clumber	c
+English springer	E
+Welsh springer spaniel	W
+cocker spaniel	c
+Sussex spaniel	S
+Irish water spaniel	I
+kuvasz	k
+schipperke	s
+groenendael	g
+malinois	m
+briard	b
+kelpie	k
+komondor	k
+Old English sheepdog	O
+Shetland sheepdog	S
+collie	c
+Border collie	B
+Bouvier des Flandres	B
+Rottweiler	R
+German shepherd	G
+Doberman	D
+miniature pinscher	m
+Greater Swiss Mountain dog	G
+Bernese mountain dog	B
+Appenzeller	A
+EntleBucher	E
+boxer	b
+bull mastiff	b
+Tibetan mastiff	T
+French bulldog	F
+Great Dane	G
+Saint Bernard	S
+Eskimo dog	E
+malamute	m
+Siberian husky	S
+dalmatian	d
+affenpinscher	a
+basenji	b
+pug	p
+Leonberg	L
+Newfoundland	N
+Great Pyrenees	G
+Samoyed	S
+Pomeranian	P
+chow	c
+keeshond	k
+Brabancon griffon	B
+Pembroke	P
+Cardigan	C
+toy poodle	t
+miniature poodle	m
+standard poodle	s
+Mexican hairless	M
+timber wolf	t
+white wolf	w
+red wolf	r
+coyote	c
+dingo	d
+dhole	d
+African hunting dog	A
+hyena	h
+red fox	r
+kit fox	k
+Arctic fox	A
+grey fox	g
+tabby	t
+tiger cat	t
+Persian cat	P
+Siamese cat	S
+Egyptian cat	E
+cougar	c
+lynx	l
+leopard	l
+snow leopard	s
+jaguar	j
+lion	l
+tiger	t
+cheetah	c
+brown bear	b
+American black bear	A
+ice bear	i
+sloth bear	s
+mongoose	m
+meerkat	m
+tiger beetle	t
+ladybug	l
+ground beetle	g
+long-horned beetle	l
+leaf beetle	l
+dung beetle	d
+rhinoceros beetle	r
+weevil	w
+fly	f
+bee	b
+ant	a
+grasshopper	g
+cricket	c
+walking stick	w
+cockroach	c
+mantis	m
+cicada	c
+leafhopper	l
+lacewing	l
+dragonfly	d
+damselfly	d
+admiral	a
+ringlet	r
+monarch	m
+cabbage butterfly	c
+sulphur butterfly	s
+lycaenid	l
+starfish	s
+sea urchin	s
+sea cucumber	s
+wood rabbit	w
+hare	h
+Angora	A
+hamster	h
+porcupine	p
+fox squirrel	f
+marmot	m
+beaver	b
+guinea pig	g
+sorrel	s
+zebra	z
+hog	h
+wild boar	w
+warthog	w
+hippopotamus	h
+ox	o
+water buffalo	w
+bison	b
+ram	r
+bighorn	b
+ibex	i
+hartebeest	h
+impala	i
+gazelle	g
+Arabian camel	A
+llama	l
+weasel	w
+mink	m
+polecat	p
+black-footed ferret	b
+otter	o
+skunk	s
+badger	b
+armadillo	a
+three-toed sloth	t
+orangutan	o
+gorilla	g
+chimpanzee	c
+gibbon	g
+siamang	s
+guenon	g
+patas	p
+baboon	b
+macaque	m
+langur	l
+colobus	c
+proboscis monkey	p
+marmoset	m
+capuchin	c
+howler monkey	h
+titi	t
+spider monkey	s
+squirrel monkey	s
+Madagascar cat	M
+indri	i
+Indian elephant	I
+African elephant	A
+lesser panda	l
+giant panda	g
+barracouta	b
+eel	e
+coho	c
+rock beauty	r
+anemone fish	a
+sturgeon	s
+gar	g
+lionfish	l
+puffer	p
+abacus	a
+abaya	a
+academic gown	a
+accordion	a
+acoustic guitar	a
+aircraft carrier	a
+airliner	a
+airship	a
+altar	a
+ambulance	a
+amphibian	a
+analog clock	a
+apiary	a
+apron	a
+ashcan	a
+assault rifle	a
+backpack	b
+bakery	b
+balance beam	b
+balloon	b
+ballpoint	b
+Band Aid	B
+banjo	b
+bannister	b
+barbell	b
+barber chair	b
+barbershop	b
+barn	b
+barometer	b
+barrel	b
+barrow	b
+baseball	b
+basketball	b
+bassinet	b
+bassoon	b
+bathing cap	b
+bath towel	b
+bathtub	b
+beach wagon	b
+beacon	b
+beaker	b
+bearskin	b
+beer bottle	b
+beer glass	b
+bell cote	b
+bib	b
+bicycle-built-for-two	b
+bikini	b
+binder	b
+binoculars	b
+birdhouse	b
+boathouse	b
+bobsled	b
+bolo tie	b
+bonnet	b
+bookcase	b
+bookshop	b
+bottlecap	b
+bow	b
+bow tie	b
+brass	b
+brassiere	b
+breakwater	b
+breastplate	b
+broom	b
+bucket	b
+buckle	b
+bulletproof vest	b
+bullet train	b
+butcher shop	b
+cab	c
+caldron	c
+candle	c
+cannon	c
+canoe	c
+can opener	c
+cardigan	c
+car mirror	c
+carousel	c
+carpenter's kit	c
+carton	c
+car wheel	c
+cash machine	c
+cassette	c
+cassette player	c
+castle	c
+catamaran	c
+CD player	C
+cello	c
+cellular telephone	c
+chain	c
+chainlink fence	c
+chain mail	c
+chain saw	c
+chest	c
+chiffonier	c
+chime	c
+china cabinet	c
+Christmas stocking	C
+church	c
+cinema	c
+cleaver	c
+cliff dwelling	c
+cloak	c
+clog	c
+cocktail shaker	c
+coffee mug	c
+coffeepot	c
+coil	c
+combination lock	c
+computer keyboard	c
+confectionery	c
+container ship	c
+convertible	c
+corkscrew	c
+cornet	c
+cowboy boot	c
+cowboy hat	c
+cradle	c
+crane	c
+crash helmet	c
+crate	c
+crib	c
+Crock Pot	C
+croquet ball	c
+crutch	c
+cuirass	c
+dam	d
+desk	d
+desktop computer	d
+dial telephone	d
+diaper	d
+digital clock	d
+digital watch	d
+dining table	d
+dishrag	d
+dishwasher	d
+disk brake	d
+dock	d
+dogsled	d
+dome	d
+doormat	d
+drilling platform	d
+drum	d
+drumstick	d
+dumbbell	d
+Dutch oven	D
+electric fan	e
+electric guitar	e
+electric locomotive	e
+entertainment center	e
+envelope	e
+espresso maker	e
+face powder	f
+feather boa	f
+file	f
+fireboat	f
+fire engine	f
+fire screen	f
+flagpole	f
+flute	f
+folding chair	f
+football helmet	f
+forklift	f
+fountain	f
+fountain pen	f
+four-poster	f
+freight car	f
+French horn	F
+frying pan	f
+fur coat	f
+garbage truck	g
+gasmask	g
+gas pump	g
+goblet	g
+go-kart	g
+golf ball	g
+golfcart	g
+gondola	g
+gong	g
+gown	g
+grand piano	g
+greenhouse	g
+grille	g
+grocery store	g
+guillotine	g
+hair slide	h
+hair spray	h
+half track	h
+hammer	h
+hamper	h
+hand blower	h
+hand-held computer	h
+handkerchief	h
+hard disc	h
+harmonica	h
+harp	h
+harvester	h
+hatchet	h
+holster	h
+home theater	h
+honeycomb	h
+hook	h
+hoopskirt	h
+horizontal bar	h
+horse cart	h
+hourglass	h
+iPod	i
+iron	i
+jack-o'-lantern	j
+jean	j
+jeep	j
+jersey	j
+jigsaw puzzle	j
+jinrikisha	j
+joystick	j
+kimono	k
+knee pad	k
+knot	k
+lab coat	l
+ladle	l
+lampshade	l
+laptop	l
+lawn mower	l
+lens cap	l
+letter opener	l
+library	l
+lifeboat	l
+lighter	l
+limousine	l
+liner	l
+lipstick	l
+Loafer	L
+lotion	l
+loudspeaker	l
+loupe	l
+lumbermill	l
+magnetic compass	m
+mailbag	m
+mailbox	m
+maillot	m
+maillot	m
+manhole cover	m
+maraca	m
+marimba	m
+mask	m
+matchstick	m
+maypole	m
+maze	m
+measuring cup	m
+medicine chest	m
+megalith	m
+microphone	m
+microwave	m
+military uniform	m
+milk can	m
+minibus	m
+miniskirt	m
+minivan	m
+missile	m
+mitten	m
+mixing bowl	m
+mobile home	m
+Model T	M
+modem	m
+monastery	m
+monitor	m
+moped	m
+mortar	m
+mortarboard	m
+mosque	m
+mosquito net	m
+motor scooter	m
+mountain bike	m
+mountain tent	m
+mouse	m
+mousetrap	m
+moving van	m
+muzzle	m
+nail	n
+neck brace	n
+necklace	n
+nipple	n
+notebook	n
+obelisk	o
+oboe	o
+ocarina	o
+odometer	o
+oil filter	o
+organ	o
+oscilloscope	o
+overskirt	o
+oxcart	o
+oxygen mask	o
+packet	p
+paddle	p
+paddlewheel	p
+padlock	p
+paintbrush	p
+pajama	p
+palace	p
+panpipe	p
+paper towel	p
+parachute	p
+parallel bars	p
+park bench	p
+parking meter	p
+passenger car	p
+patio	p
+pay-phone	p
+pedestal	p
+pencil box	p
+pencil sharpener	p
+perfume	p
+Petri dish	P
+photocopier	p
+pick	p
+pickelhaube	p
+picket fence	p
+pickup	p
+pier	p
+piggy bank	p
+pill bottle	p
+pillow	p
+ping-pong ball	p
+pinwheel	p
+pirate	p
+pitcher	p
+plane	p
+planetarium	p
+plastic bag	p
+plate rack	p
+plow	p
+plunger	p
+Polaroid camera	P
+pole	p
+police van	p
+poncho	p
+pool table	p
+pop bottle	p
+pot	p
+potter's wheel	p
+power drill	p
+prayer rug	p
+printer	p
+prison	p
+projectile	p
+projector	p
+puck	p
+punching bag	p
+purse	p
+quill	q
+quilt	q
+racer	r
+racket	r
+radiator	r
+radio	r
+radio telescope	r
+rain barrel	r
+recreational vehicle	r
+reel	r
+reflex camera	r
+refrigerator	r
+remote control	r
+restaurant	r
+revolver	r
+rifle	r
+rocking chair	r
+rotisserie	r
+rubber eraser	r
+rugby ball	r
+rule	r
+running shoe	r
+safe	s
+safety pin	s
+saltshaker	s
+sandal	s
+sarong	s
+sax	s
+scabbard	s
+scale	s
+school bus	s
+schooner	s
+scoreboard	s
+screen	s
+screw	s
+screwdriver	s
+seat belt	s
+sewing machine	s
+shield	s
+shoe shop	s
+shoji	s
+shopping basket	s
+shopping cart	s
+shovel	s
+shower cap	s
+shower curtain	s
+ski	s
+ski mask	s
+sleeping bag	s
+slide rule	s
+sliding door	s
+slot	s
+snorkel	s
+snowmobile	s
+snowplow	s
+soap dispenser	s
+soccer ball	s
+sock	s
+solar dish	s
+sombrero	s
+soup bowl	s
+space bar	s
+space heater	s
+space shuttle	s
+spatula	s
+speedboat	s
+spider web	s
+spindle	s
+sports car	s
+spotlight	s
+stage	s
+steam locomotive	s
+steel arch bridge	s
+steel drum	s
+stethoscope	s
+stole	s
+stone wall	s
+stopwatch	s
+stove	s
+strainer	s
+streetcar	s
+stretcher	s
+studio couch	s
+stupa	s
+submarine	s
+suit	s
+sundial	s
+sunglass	s
+sunglasses	s
+sunscreen	s
+suspension bridge	s
+swab	s
+sweatshirt	s
+swimming trunks	s
+swing	s
+switch	s
+syringe	s
+table lamp	t
+tank	t
+tape player	t
+teapot	t
+teddy	t
+television	t
+tennis ball	t
+thatch	t
+theater curtain	t
+thimble	t
+thresher	t
+throne	t
+tile roof	t
+toaster	t
+tobacco shop	t
+toilet seat	t
+torch	t
+totem pole	t
+tow truck	t
+toyshop	t
+tractor	t
+trailer truck	t
+tray	t
+trench coat	t
+tricycle	t
+trimaran	t
+tripod	t
+triumphal arch	t
+trolleybus	t
+trombone	t
+tub	t
+turnstile	t
+typewriter keyboard	t
+umbrella	u
+unicycle	u
+upright	u
+vacuum	v
+vase	v
+vault	v
+velvet	v
+vending machine	v
+vestment	v
+viaduct	v
+violin	v
+volleyball	v
+waffle iron	w
+wall clock	w
+wallet	w
+wardrobe	w
+warplane	w
+washbasin	w
+washer	w
+water bottle	w
+water jug	w
+water tower	w
+whiskey jug	w
+whistle	w
+wig	w
+window screen	w
+window shade	w
+Windsor tie	W
+wine bottle	w
+wing	w
+wok	w
+wooden spoon	w
+wool	w
+worm fence	w
+wreck	w
+yawl	y
+yurt	y
+web site	w
+comic book	c
+crossword puzzle	c
+street sign	s
+traffic light	t
+book jacket	b
+menu	m
+plate	p
+guacamole	g
+consomme	c
+hot pot	h
+trifle	t
+ice cream	i
+ice lolly	i
+French loaf	F
+bagel	b
+pretzel	p
+cheeseburger	c
+hotdog	h
+mashed potato	m
+head cabbage	h
+broccoli	b
+cauliflower	c
+zucchini	z
+spaghetti squash	s
+acorn squash	a
+butternut squash	b
+cucumber	c
+artichoke	a
+bell pepper	b
+cardoon	c
+mushroom	m
+Granny Smith	G
+strawberry	s
+orange	o
+lemon	l
+fig	f
+pineapple	p
+banana	b
+jackfruit	j
+custard apple	c
+pomegranate	p
+hay	h
+carbonara	c
+chocolate sauce	c
+dough	d
+meat loaf	m
+pizza	p
+potpie	p
+burrito	b
+red wine	r
+espresso	e
+cup	c
+eggnog	e
+alp	a
+bubble	b
+cliff	c
+coral reef	c
+geyser	g
+lakeside	l
+promontory	p
+sandbar	s
+seashore	s
+valley	v
+volcano	v
+ballplayer	b
+groom	g
+scuba diver	s
+rapeseed	r
+daisy	d
+yellow lady's slipper	y
+corn	c
+acorn	a
+hip	h
+buckeye	b
+coral fungus	c
+agaric	a
+gyromitra	g
+stinkhorn	s
+earthstar	e
+hen-of-the-woods	h
+bolete	b
+ear	e
+toilet tissue	t
+tench	t
+goldfish	g
+great white shark	g
+tiger shark	t
+hammerhead	h
+electric ray	e
+stingray	s
+cock	c
+hen	h
+ostrich	o
+brambling	b
+goldfinch	g
+house finch	h
+junco	j
+indigo bunting	i
+robin	r
+bulbul	b
+jay	j
+magpie	m
+chickadee	c
+water ouzel	w
+kite	k
+bald eagle	b
+vulture	v
+great grey owl	g
+European fire salamander	E
+common newt	c
+eft	e
+spotted salamander	s
+axolotl	a
+bullfrog	b
+tree frog	t
+tailed frog	t
+loggerhead	l
+leatherback turtle	l
+mud turtle	m
+terrapin	t
+box turtle	b
+banded gecko	b
+common iguana	c
+American chameleon	A
+whiptail	w
+agama	a
+frilled lizard	f
+alligator lizard	a
+Gila monster	G
+green lizard	g
+African chameleon	A
+Komodo dragon	K
+African crocodile	A
+American alligator	A
+triceratops	t
+thunder snake	t
+ringneck snake	r
+hognose snake	h
+green snake	g
+king snake	k
+garter snake	g
+water snake	w
+vine snake	v
+night snake	n
+boa constrictor	b
+rock python	r
+Indian cobra	I
+green mamba	g
+sea snake	s
+horned viper	h
+diamondback	d
+sidewinder	s
+trilobite	t
+harvestman	h
+scorpion	s
+black and gold garden spider	b
+barn spider	b
+garden spider	g
+black widow	b
+tarantula	t
+wolf spider	w
+tick	t
+centipede	c
+black grouse	b
+ptarmigan	p
+ruffed grouse	r
+prairie chicken	p
+peacock	p
+quail	q
+partridge	p
+African grey	A
+macaw	m
+sulphur-crested cockatoo	s
+lorikeet	l
+coucal	c
+bee eater	b
+hornbill	h
+hummingbird	h
+jacamar	j
+toucan	t
+drake	d
+red-breasted merganser	r
+goose	g
+black swan	b
+tusker	t
+echidna	e
+platypus	p
+wallaby	w
+koala	k
+wombat	w
+jellyfish	j
+sea anemone	s
+brain coral	b
+flatworm	f
+nematode	n
+conch	c
+snail	s
+slug	s
+sea slug	s
+chiton	c
+chambered nautilus	c
+Dungeness crab	D
+rock crab	r
+fiddler crab	f
+king crab	k
+American lobster	A
+spiny lobster	s
+crayfish	c
+hermit crab	h
+isopod	i
+white stork	w
+black stork	b
+spoonbill	s
+flamingo	f
+little blue heron	l
+American egret	A
+bittern	b
+crane	c
+limpkin	l
+European gallinule	E
+American coot	A
+bustard	b
+ruddy turnstone	r
+red-backed sandpiper	r
+redshank	r
+dowitcher	d
+oystercatcher	o
+pelican	p
+king penguin	k
+albatross	a
+grey whale	g
+killer whale	k
+dugong	d
+sea lion	s
+Chihuahua	C
+Japanese spaniel	J
+Maltese dog	M
+Pekinese	P
+Shih-Tzu	S
+Blenheim spaniel	B
+papillon	p
+toy terrier	t
+Rhodesian ridgeback	R
+Afghan hound	A
+basset	b
+beagle	b
+bloodhound	b
+bluetick	b
+black-and-tan coonhound	b
+Walker hound	W
+English foxhound	E
+redbone	r
+borzoi	b
+Irish wolfhound	I
+Italian greyhound	I
+whippet	w
+Ibizan hound	I
+Norwegian elkhound	N
+otterhound	o
+Saluki	S
+Scottish deerhound	S
+Weimaraner	W
+Staffordshire bullterrier	S
+American Staffordshire terrier	A
+Bedlington terrier	B
+Border terrier	B
+Kerry blue terrier	K
+Irish terrier	I
+Norfolk terrier	N
+Norwich terrier	N
+Yorkshire terrier	Y
+wire-haired fox terrier	w
+Lakeland terrier	L
+Sealyham terrier	S
+Airedale	A
+cairn	c
+Australian terrier	A
+Dandie Dinmont	D
+Boston bull	B
+miniature schnauzer	m
+giant schnauzer	g
+standard schnauzer	s
+Scotch terrier	S
+Tibetan terrier	T
+silky terrier	s
+soft-coated wheaten terrier	s
+West Highland white terrier	W
+Lhasa	L
+flat-coated retriever	f
+curly-coated retriever	c
+golden retriever	g
+Labrador retriever	L
+Chesapeake Bay retriever	C
+German short-haired pointer	G
+vizsla	v
+English setter	E
+Irish setter	I
+Gordon setter	G
+Brittany spaniel	B
+clumber	c
+English springer	E
+Welsh springer spaniel	W
+cocker spaniel	c
+Sussex spaniel	S
+Irish water spaniel	I
+kuvasz	k
+schipperke	s
+groenendael	g
+malinois	m
+briard	b
+kelpie	k
+komondor	k
+Old English sheepdog	O
+Shetland sheepdog	S
+collie	c
+Border collie	B
+Bouvier des Flandres	B
+Rottweiler	R
+German shepherd	G
+Doberman	D
+miniature pinscher	m
+Greater Swiss Mountain dog	G
+Bernese mountain dog	B
+Appenzeller	A
+EntleBucher	E
+boxer	b
+bull mastiff	b
+Tibetan mastiff	T
+French bulldog	F
+Great Dane	G
+Saint Bernard	S
+Eskimo dog	E
+malamute	m
+Siberian husky	S
+dalmatian	d
+affenpinscher	a
+basenji	b
+pug	p
+Leonberg	L
+Newfoundland	N
+Great Pyrenees	G
+Samoyed	S
+Pomeranian	P
+chow	c
+keeshond	k
+Brabancon griffon	B
+Pembroke	P
+Cardigan	C
+toy poodle	t
+miniature poodle	m
+standard poodle	s
+Mexican hairless	M
+timber wolf	t
+white wolf	w
+red wolf	r
+coyote	c
+dingo	d
+dhole	d
+African hunting dog	A
+hyena	h
+red fox	r
+kit fox	k
+Arctic fox	A
+grey fox	g
+tabby	t
+tiger cat	t
+Persian cat	P
+Siamese cat	S
+Egyptian cat	E
+cougar	c
+lynx	l
+leopard	l
+snow leopard	s
+jaguar	j
+lion	l
+tiger	t
+cheetah	c
+brown bear	b
+American black bear	A
+ice bear	i
+sloth bear	s
+mongoose	m
+meerkat	m
+tiger beetle	t
+ladybug	l
+ground beetle	g
+long-horned beetle	l
+leaf beetle	l
+dung beetle	d
+rhinoceros beetle	r
+weevil	w
+fly	f
+bee	b
+ant	a
+grasshopper	g
+cricket	c
+walking stick	w
+cockroach	c
+mantis	m
+cicada	c
+leafhopper	l
+lacewing	l
+dragonfly	d
+damselfly	d
+admiral	a
+ringlet	r
+monarch	m
+cabbage butterfly	c
+sulphur butterfly	s
+lycaenid	l
+starfish	s
+sea urchin	s
+sea cucumber	s
+wood rabbit	w
+hare	h
+Angora	A
+hamster	h
+porcupine	p
+fox squirrel	f
+marmot	m
+beaver	b
+guinea pig	g
+sorrel	s
+zebra	z
+hog	h
+wild boar	w
+warthog	w
+hippopotamus	h
+ox	o
+water buffalo	w
+bison	b
+ram	r
+bighorn	b
+ibex	i
+hartebeest	h
+impala	i
+gazelle	g
+Arabian camel	A
+llama	l
+weasel	w
+mink	m
+polecat	p
+black-footed ferret	b
+otter	o
+skunk	s
+badger	b
+armadillo	a
+three-toed sloth	t
+orangutan	o
+gorilla	g
+chimpanzee	c
+gibbon	g
+siamang	s
+guenon	g
+patas	p
+baboon	b
+macaque	m
+langur	l
+colobus	c
+proboscis monkey	p
+marmoset	m
+capuchin	c
+howler monkey	h
+titi	t
+spider monkey	s
+squirrel monkey	s
+Madagascar cat	M
+indri	i
+Indian elephant	I
+African elephant	A
+lesser panda	l
+giant panda	g
+barracouta	b
+eel	e
+coho	c
+rock beauty	r
+anemone fish	a
+sturgeon	s
+gar	g
+lionfish	l
+puffer	p
+abacus	a
+abaya	a
+academic gown	a
+accordion	a
+acoustic guitar	a
+aircraft carrier	a
+airliner	a
+airship	a
+altar	a
+ambulance	a
+amphibian	a
+analog clock	a
+apiary	a
+apron	a
+ashcan	a
+assault rifle	a
+backpack	b
+bakery	b
+balance beam	b
+balloon	b
+ballpoint	b
+Band Aid	B
+banjo	b
+bannister	b
+barbell	b
+barber chair	b
+barbershop	b
+barn	b
+barometer	b
+barrel	b
+barrow	b
+baseball	b
+basketball	b
+bassinet	b
+bassoon	b
+bathing cap	b
+bath towel	b
+bathtub	b
+beach wagon	b
+beacon	b
+beaker	b
+bearskin	b
+beer bottle	b
+beer glass	b
+bell cote	b
+bib	b
+bicycle-built-for-two	b
+bikini	b
+binder	b
+binoculars	b
+birdhouse	b
+boathouse	b
+bobsled	b
+bolo tie	b
+bonnet	b
+bookcase	b
+bookshop	b
+bottlecap	b
+bow	b
+bow tie	b
+brass	b
+brassiere	b
+breakwater	b
+breastplate	b
+broom	b
+bucket	b
+buckle	b
+bulletproof vest	b
+bullet train	b
+butcher shop	b
+cab	c
+caldron	c
+candle	c
+cannon	c
+canoe	c
+can opener	c
+cardigan	c
+car mirror	c
+carousel	c
+carpenter's kit	c
+carton	c
+car wheel	c
+cash machine	c
+cassette	c
+cassette player	c
+castle	c
+catamaran	c
+CD player	C
+cello	c
+cellular telephone	c
+chain	c
+chainlink fence	c
+chain mail	c
+chain saw	c
+chest	c
+chiffonier	c
+chime	c
+china cabinet	c
+Christmas stocking	C
+church	c
+cinema	c
+cleaver	c
+cliff dwelling	c
+cloak	c
+clog	c
+cocktail shaker	c
+coffee mug	c
+coffeepot	c
+coil	c
+combination lock	c
+computer keyboard	c
+confectionery	c
+container ship	c
+convertible	c
+corkscrew	c
+cornet	c
+cowboy boot	c
+cowboy hat	c
+cradle	c
+crane	c
+crash helmet	c
+crate	c
+crib	c
+Crock Pot	C
+croquet ball	c
+crutch	c
+cuirass	c
+dam	d
+desk	d
+desktop computer	d
+dial telephone	d
+diaper	d
+digital clock	d
+digital watch	d
+dining table	d
+dishrag	d
+dishwasher	d
+disk brake	d
+dock	d
+dogsled	d
+dome	d
+doormat	d
+drilling platform	d
+drum	d
+drumstick	d
+dumbbell	d
+Dutch oven	D
+electric fan	e
+electric guitar	e
+electric locomotive	e
+entertainment center	e
+envelope	e
+espresso maker	e
+face powder	f
+feather boa	f
+file	f
+fireboat	f
+fire engine	f
+fire screen	f
+flagpole	f
+flute	f
+folding chair	f
+football helmet	f
+forklift	f
+fountain	f
+fountain pen	f
+four-poster	f
+freight car	f
+French horn	F
+frying pan	f
+fur coat	f
+garbage truck	g
+gasmask	g
+gas pump	g
+goblet	g
+go-kart	g
+golf ball	g
+golfcart	g
+gondola	g
+gong	g
+gown	g
+grand piano	g
+greenhouse	g
+grille	g
+grocery store	g
+guillotine	g
+hair slide	h
+hair spray	h
+half track	h
+hammer	h
+hamper	h
+hand blower	h
+hand-held computer	h
+handkerchief	h
+hard disc	h
+harmonica	h
+harp	h
+harvester	h
+hatchet	h
+holster	h
+home theater	h
+honeycomb	h
+hook	h
+hoopskirt	h
+horizontal bar	h
+horse cart	h
+hourglass	h
+iPod	i
+iron	i
+jack-o'-lantern	j
+jean	j
+jeep	j
+jersey	j
+jigsaw puzzle	j
+jinrikisha	j
+joystick	j
+kimono	k
+knee pad	k
+knot	k
+lab coat	l
+ladle	l
+lampshade	l
+laptop	l
+lawn mower	l
+lens cap	l
+letter opener	l
+library	l
+lifeboat	l
+lighter	l
+limousine	l
+liner	l
+lipstick	l
+Loafer	L
+lotion	l
+loudspeaker	l
+loupe	l
+lumbermill	l
+magnetic compass	m
+mailbag	m
+mailbox	m
+maillot	m
+maillot	m
+manhole cover	m
+maraca	m
+marimba	m
+mask	m
+matchstick	m
+maypole	m
+maze	m
+measuring cup	m
+medicine chest	m
+megalith	m
+microphone	m
+microwave	m
+military uniform	m
+milk can	m
+minibus	m
+miniskirt	m
+minivan	m
+missile	m
+mitten	m
+mixing bowl	m
+mobile home	m
+Model T	M
+modem	m
+monastery	m
+monitor	m
+moped	m
+mortar	m
+mortarboard	m
+mosque	m
+mosquito net	m
+motor scooter	m
+mountain bike	m
+mountain tent	m
+mouse	m
+mousetrap	m
+moving van	m
+muzzle	m
+nail	n
+neck brace	n
+necklace	n
+nipple	n
+notebook	n
+obelisk	o
+oboe	o
+ocarina	o
+odometer	o
+oil filter	o
+organ	o
+oscilloscope	o
+overskirt	o
+oxcart	o
+oxygen mask	o
+packet	p
+paddle	p
+paddlewheel	p
+padlock	p
+paintbrush	p
+pajama	p
+palace	p
+panpipe	p
+paper towel	p
+parachute	p
+parallel bars	p
+park bench	p
+parking meter	p
+passenger car	p
+patio	p
+pay-phone	p
+pedestal	p
+pencil box	p
+pencil sharpener	p
+perfume	p
+Petri dish	P
+photocopier	p
+pick	p
+pickelhaube	p
+picket fence	p
+pickup	p
+pier	p
+piggy bank	p
+pill bottle	p
+pillow	p
+ping-pong ball	p
+pinwheel	p
+pirate	p
+pitcher	p
+plane	p
+planetarium	p
+plastic bag	p
+plate rack	p
+plow	p
+plunger	p
+Polaroid camera	P
+pole	p
+police van	p
+poncho	p
+pool table	p
+pop bottle	p
+pot	p
+potter's wheel	p
+power drill	p
+prayer rug	p
+printer	p
+prison	p
+projectile	p
+projector	p
+puck	p
+punching bag	p
+purse	p
+quill	q
+quilt	q
+racer	r
+racket	r
+radiator	r
+radio	r
+radio telescope	r
+rain barrel	r
+recreational vehicle	r
+reel	r
+reflex camera	r
+refrigerator	r
+remote control	r
+restaurant	r
+revolver	r
+rifle	r
+rocking chair	r
+rotisserie	r
+rubber eraser	r
+rugby ball	r
+rule	r
+running shoe	r
+safe	s
+safety pin	s
+saltshaker	s
+sandal	s
+sarong	s
+sax	s
+scabbard	s
+scale	s
+school bus	s
+schooner	s
+scoreboard	s
+screen	s
+screw	s
+screwdriver	s
+seat belt	s
+sewing machine	s
+shield	s
+shoe shop	s
+shoji	s
+shopping basket	s
+shopping cart	s
+shovel	s
+shower cap	s
+shower curtain	s
+ski	s
+ski mask	s
+sleeping bag	s
+slide rule	s
+sliding door	s
+slot	s
+snorkel	s
+snowmobile	s
+snowplow	s
+soap dispenser	s
+soccer ball	s
+sock	s
+solar dish	s
+sombrero	s
+soup bowl	s
+space bar	s
+space heater	s
+space shuttle	s
+spatula	s
+speedboat	s
+spider web	s
+spindle	s
+sports car	s
+spotlight	s
+stage	s
+steam locomotive	s
+steel arch bridge	s
+steel drum	s
+stethoscope	s
+stole	s
+stone wall	s
+stopwatch	s
+stove	s
+strainer	s
+streetcar	s
+stretcher	s
+studio couch	s
+stupa	s
+submarine	s
+suit	s
+sundial	s
+sunglass	s
+sunglasses	s
+sunscreen	s
+suspension bridge	s
+swab	s
+sweatshirt	s
+swimming trunks	s
+swing	s
+switch	s
+syringe	s
+table lamp	t
+tank	t
+tape player	t
+teapot	t
+teddy	t
+television	t
+tennis ball	t
+thatch	t
+theater curtain	t
+thimble	t
+thresher	t
+throne	t
+tile roof	t
+toaster	t
+tobacco shop	t
+toilet seat	t
+torch	t
+totem pole	t
+tow truck	t
+toyshop	t
+tractor	t
+trailer truck	t
+tray	t
+trench coat	t
+tricycle	t
+trimaran	t
+tripod	t
+triumphal arch	t
+trolleybus	t
+trombone	t
+tub	t
+turnstile	t
+typewriter keyboard	t
+umbrella	u
+unicycle	u
+upright	u
+vacuum	v
+vase	v
+vault	v
+velvet	v
+vending machine	v
+vestment	v
+viaduct	v
+violin	v
+volleyball	v
+waffle iron	w
+wall clock	w
+wallet	w
+wardrobe	w
+warplane	w
+washbasin	w
+washer	w
+water bottle	w
+water jug	w
+water tower	w
+whiskey jug	w
+whistle	w
+wig	w
+window screen	w
+window shade	w
+Windsor tie	W
+wine bottle	w
+wing	w
+wok	w
+wooden spoon	w
+wool	w
+worm fence	w
+wreck	w
+yawl	y
+yurt	y
+web site	w
+comic book	c
+crossword puzzle	c
+street sign	s
+traffic light	t
+book jacket	b
+menu	m
+plate	p
+guacamole	g
+consomme	c
+hot pot	h
+trifle	t
+ice cream	i
+ice lolly	i
+French loaf	F
+bagel	b
+pretzel	p
+cheeseburger	c
+hotdog	h
+mashed potato	m
+head cabbage	h
+broccoli	b
+cauliflower	c
+zucchini	z
+spaghetti squash	s
+acorn squash	a
+butternut squash	b
+cucumber	c
+artichoke	a
+bell pepper	b
+cardoon	c
+mushroom	m
+Granny Smith	G
+strawberry	s
+orange	o
+lemon	l
+fig	f
+pineapple	p
+banana	b
+jackfruit	j
+custard apple	c
+pomegranate	p
+hay	h
+carbonara	c
+chocolate sauce	c
+dough	d
+meat loaf	m
+pizza	p
+potpie	p
+burrito	b
+red wine	r
+espresso	e
+cup	c
+eggnog	e
+alp	a
+bubble	b
+cliff	c
+coral reef	c
+geyser	g
+lakeside	l
+promontory	p
+sandbar	s
+seashore	s
+valley	v
+volcano	v
+ballplayer	b
+groom	g
+scuba diver	s
+rapeseed	r
+daisy	d
+yellow lady's slipper	y
+corn	c
+acorn	a
+hip	h
+buckeye	b
+coral fungus	c
+agaric	a
+gyromitra	g
+stinkhorn	s
+earthstar	e
+hen-of-the-woods	h
+bolete	b
+ear	e
+toilet tissue	t
+tench	t
+goldfish	g
+great white shark	g
+tiger shark	t
+hammerhead	h
+electric ray	e
+stingray	s
+cock	c
+hen	h
+ostrich	o
+brambling	b
+goldfinch	g
+house finch	h
+junco	j
+indigo bunting	i
+robin	r
+bulbul	b
+jay	j
+magpie	m
+chickadee	c
+water ouzel	w
+kite	k
+bald eagle	b
+vulture	v
+great grey owl	g
+European fire salamander	E
+common newt	c
+eft	e
+spotted salamander	s
+axolotl	a
+bullfrog	b
+tree frog	t
+tailed frog	t
+loggerhead	l
+leatherback turtle	l
+mud turtle	m
+terrapin	t
+box turtle	b
+banded gecko	b
+common iguana	c
+American chameleon	A
+whiptail	w
+agama	a
+frilled lizard	f
+alligator lizard	a
+Gila monster	G
+green lizard	g
+African chameleon	A
+Komodo dragon	K
+African crocodile	A
+American alligator	A
+triceratops	t
+thunder snake	t
+ringneck snake	r
+hognose snake	h
+green snake	g
+king snake	k
+garter snake	g
+water snake	w
+vine snake	v
+night snake	n
+boa constrictor	b
+rock python	r
+Indian cobra	I
+green mamba	g
+sea snake	s
+horned viper	h
+diamondback	d
+sidewinder	s
+trilobite	t
+harvestman	h
+scorpion	s
+black and gold garden spider	b
+barn spider	b
+garden spider	g
+black widow	b
+tarantula	t
+wolf spider	w
+tick	t
+centipede	c
+black grouse	b
+ptarmigan	p
+ruffed grouse	r
+prairie chicken	p
+peacock	p
+quail	q
+partridge	p
+African grey	A
+macaw	m
+sulphur-crested cockatoo	s
+lorikeet	l
+coucal	c
+bee eater	b
+hornbill	h
+hummingbird	h
+jacamar	j
+toucan	t
+drake	d
+red-breasted merganser	r
+goose	g
+black swan	b
+tusker	t
+echidna	e
+platypus	p
+wallaby	w
+koala	k
+wombat	w
+jellyfish	j
+sea anemone	s
+brain coral	b
+flatworm	f
+nematode	n
+conch	c
+snail	s
+slug	s
+sea slug	s
+chiton	c
+chambered nautilus	c
+Dungeness crab	D
+rock crab	r
+fiddler crab	f
+king crab	k
+American lobster	A
+spiny lobster	s
+crayfish	c
+hermit crab	h
+isopod	i
+white stork	w
+black stork	b
+spoonbill	s
+flamingo	f
+little blue heron	l
+American egret	A
+bittern	b
+crane	c
+limpkin	l
+European gallinule	E
+American coot	A
+bustard	b
+ruddy turnstone	r
+red-backed sandpiper	r
+redshank	r
+dowitcher	d
+oystercatcher	o
+pelican	p
+king penguin	k
+albatross	a
+grey whale	g
+killer whale	k
+dugong	d
+sea lion	s
+Chihuahua	C
+Japanese spaniel	J
+Maltese dog	M
+Pekinese	P
+Shih-Tzu	S
+Blenheim spaniel	B
+papillon	p
+toy terrier	t
+Rhodesian ridgeback	R
+Afghan hound	A
+basset	b
+beagle	b
+bloodhound	b
+bluetick	b
+black-and-tan coonhound	b
+Walker hound	W
+English foxhound	E
+redbone	r
+borzoi	b
+Irish wolfhound	I
+Italian greyhound	I
+whippet	w
+Ibizan hound	I
+Norwegian elkhound	N
+otterhound	o
+Saluki	S
+Scottish deerhound	S
+Weimaraner	W
+Staffordshire bullterrier	S
+American Staffordshire terrier	A
+Bedlington terrier	B
+Border terrier	B
+Kerry blue terrier	K
+Irish terrier	I
+Norfolk terrier	N
+Norwich terrier	N
+Yorkshire terrier	Y
+wire-haired fox terrier	w
+Lakeland terrier	L
+Sealyham terrier	S
+Airedale	A
+cairn	c
+Australian terrier	A
+Dandie Dinmont	D
+Boston bull	B
+miniature schnauzer	m
+giant schnauzer	g
+standard schnauzer	s
+Scotch terrier	S
+Tibetan terrier	T
+silky terrier	s
+soft-coated wheaten terrier	s
+West Highland white terrier	W
+Lhasa	L
+flat-coated retriever	f
+curly-coated retriever	c
+golden retriever	g
+Labrador retriever	L
+Chesapeake Bay retriever	C
+German short-haired pointer	G
+vizsla	v
+English setter	E
+Irish setter	I
+Gordon setter	G
+Brittany spaniel	B
+clumber	c
+English springer	E
+Welsh springer spaniel	W
+cocker spaniel	c
+Sussex spaniel	S
+Irish water spaniel	I
+kuvasz	k
+schipperke	s
+groenendael	g
+malinois	m
+briard	b
+kelpie	k
+komondor	k
+Old English sheepdog	O
+Shetland sheepdog	S
+collie	c
+Border collie	B
+Bouvier des Flandres	B
+Rottweiler	R
+German shepherd	G
+Doberman	D
+miniature pinscher	m
+Greater Swiss Mountain dog	G
+Bernese mountain dog	B
+Appenzeller	A
+EntleBucher	E
+boxer	b
+bull mastiff	b
+Tibetan mastiff	T
+French bulldog	F
+Great Dane	G
+Saint Bernard	S
+Eskimo dog	E
+malamute	m
+Siberian husky	S
+dalmatian	d
+affenpinscher	a
+basenji	b
+pug	p
+Leonberg	L
+Newfoundland	N
+Great Pyrenees	G
+Samoyed	S
+Pomeranian	P
+chow	c
+keeshond	k
+Brabancon griffon	B
+Pembroke	P
+Cardigan	C
+toy poodle	t
+miniature poodle	m
+standard poodle	s
+Mexican hairless	M
+timber wolf	t
+white wolf	w
+red wolf	r
+coyote	c
+dingo	d
+dhole	d
+African hunting dog	A
+hyena	h
+red fox	r
+kit fox	k
+Arctic fox	A
+grey fox	g
+tabby	t
+tiger cat	t
+Persian cat	P
+Siamese cat	S
+Egyptian cat	E
+cougar	c
+lynx	l
+leopard	l
+snow leopard	s
+jaguar	j
+lion	l
+tiger	t
+cheetah	c
+brown bear	b
+American black bear	A
+ice bear	i
+sloth bear	s
+mongoose	m
+meerkat	m
+tiger beetle	t
+ladybug	l
+ground beetle	g
+long-horned beetle	l
+leaf beetle	l
+dung beetle	d
+rhinoceros beetle	r
+weevil	w
+fly	f
+bee	b
+ant	a
+grasshopper	g
+cricket	c
+walking stick	w
+cockroach	c
+mantis	m
+cicada	c
+leafhopper	l
+lacewing	l
+dragonfly	d
+damselfly	d
+admiral	a
+ringlet	r
+monarch	m
+cabbage butterfly	c
+sulphur butterfly	s
+lycaenid	l
+starfish	s
+sea urchin	s
+sea cucumber	s
+wood rabbit	w
+hare	h
+Angora	A
+hamster	h
+porcupine	p
+fox squirrel	f
+marmot	m
+beaver	b
+guinea pig	g
+sorrel	s
+zebra	z
+hog	h
+wild boar	w
+warthog	w
+hippopotamus	h
+ox	o
+water buffalo	w
+bison	b
+ram	r
+bighorn	b
+ibex	i
+hartebeest	h
+impala	i
+gazelle	g
+Arabian camel	A
+llama	l
+weasel	w
+mink	m
+polecat	p
+black-footed ferret	b
+otter	o
+skunk	s
+badger	b
+armadillo	a
+three-toed sloth	t
+orangutan	o
+gorilla	g
+chimpanzee	c
+gibbon	g
+siamang	s
+guenon	g
+patas	p
+baboon	b
+macaque	m
+langur	l
+colobus	c
+proboscis monkey	p
+marmoset	m
+capuchin	c
+howler monkey	h
+titi	t
+spider monkey	s
+squirrel monkey	s
+Madagascar cat	M
+indri	i
+Indian elephant	I
+African elephant	A
+lesser panda	l
+giant panda	g
+barracouta	b
+eel	e
+coho	c
+rock beauty	r
+anemone fish	a
+sturgeon	s
+gar	g
+lionfish	l
+puffer	p
+abacus	a
+abaya	a
+academic gown	a
+accordion	a
+acoustic guitar	a
+aircraft carrier	a
+airliner	a
+airship	a
+altar	a
+ambulance	a
+amphibian	a
+analog clock	a
+apiary	a
+apron	a
+ashcan	a
+assault rifle	a
+backpack	b
+bakery	b
+balance beam	b
+balloon	b
+ballpoint	b
+Band Aid	B
+banjo	b
+bannister	b
+barbell	b
+barber chair	b
+barbershop	b
+barn	b
+barometer	b
+barrel	b
+barrow	b
+baseball	b
+basketball	b
+bassinet	b
+bassoon	b
+bathing cap	b
+bath towel	b
+bathtub	b
+beach wagon	b
+beacon	b
+beaker	b
+bearskin	b
+beer bottle	b
+beer glass	b
+bell cote	b
+bib	b
+bicycle-built-for-two	b
+bikini	b
+binder	b
+binoculars	b
+birdhouse	b
+boathouse	b
+bobsled	b
+bolo tie	b
+bonnet	b
+bookcase	b
+bookshop	b
+bottlecap	b
+bow	b
+bow tie	b
+brass	b
+brassiere	b
+breakwater	b
+breastplate	b
+broom	b
+bucket	b
+buckle	b
+bulletproof vest	b
+bullet train	b
+butcher shop	b
+cab	c
+caldron	c
+candle	c
+cannon	c
+canoe	c
+can opener	c
+cardigan	c
+car mirror	c
+carousel	c
+carpenter's kit	c
+carton	c
+car wheel	c
+cash machine	c
+cassette	c
+cassette player	c
+castle	c
+catamaran	c
+CD player	C
+cello	c
+cellular telephone	c
+chain	c
+chainlink fence	c
+chain mail	c
+chain saw	c
+chest	c
+chiffonier	c
+chime	c
+china cabinet	c
+Christmas stocking	C
+church	c
+cinema	c
+cleaver	c
+cliff dwelling	c
+cloak	c
+clog	c
+cocktail shaker	c
+coffee mug	c
+coffeepot	c
+coil	c
+combination lock	c
+computer keyboard	c
+confectionery	c
+container ship	c
+convertible	c
+corkscrew	c
+cornet	c
+cowboy boot	c
+cowboy hat	c
+cradle	c
+crane	c
+crash helmet	c
+crate	c
+crib	c
+Crock Pot	C
+croquet ball	c
+crutch	c
+cuirass	c
+dam	d
+desk	d
+desktop computer	d
+dial telephone	d
+diaper	d
+digital clock	d
+digital watch	d
+dining table	d
+dishrag	d
+dishwasher	d
+disk brake	d
+dock	d
+dogsled	d
+dome	d
+doormat	d
+drilling platform	d
+drum	d
+drumstick	d
+dumbbell	d
+Dutch oven	D
+electric fan	e
+electric guitar	e
+electric locomotive	e
+entertainment center	e
+envelope	e
+espresso maker	e
+face powder	f
+feather boa	f
+file	f
+fireboat	f
+fire engine	f
+fire screen	f
+flagpole	f
+flute	f
+folding chair	f
+football helmet	f
+forklift	f
+fountain	f
+fountain pen	f
+four-poster	f
+freight car	f
+French horn	F
+frying pan	f
+fur coat	f
+garbage truck	g
+gasmask	g
+gas pump	g
+goblet	g
+go-kart	g
+golf ball	g
+golfcart	g
+gondola	g
+gong	g
+gown	g
+grand piano	g
+greenhouse	g
+grille	g
+grocery store	g
+guillotine	g
+hair slide	h
+hair spray	h
+half track	h
+hammer	h
+hamper	h
+hand blower	h
+hand-held computer	h
+handkerchief	h
+hard disc	h
+harmonica	h
+harp	h
+harvester	h
+hatchet	h
+holster	h
+home theater	h
+honeycomb	h
+hook	h
+hoopskirt	h
+horizontal bar	h
+horse cart	h
+hourglass	h
+iPod	i
+iron	i
+jack-o'-lantern	j
+jean	j
+jeep	j
+jersey	j
+jigsaw puzzle	j
+jinrikisha	j
+joystick	j
+kimono	k
+knee pad	k
+knot	k
+lab coat	l
+ladle	l
+lampshade	l
+laptop	l
+lawn mower	l
+lens cap	l
+letter opener	l
+library	l
+lifeboat	l
+lighter	l
+limousine	l
+liner	l
+lipstick	l
+Loafer	L
+lotion	l
+loudspeaker	l
+loupe	l
+lumbermill	l
+magnetic compass	m
+mailbag	m
+mailbox	m
+maillot	m
+maillot	m
+manhole cover	m
+maraca	m
+marimba	m
+mask	m
+matchstick	m
+maypole	m
+maze	m
+measuring cup	m
+medicine chest	m
+megalith	m
+microphone	m
+microwave	m
+military uniform	m
+milk can	m
+minibus	m
+miniskirt	m
+minivan	m
+missile	m
+mitten	m
+mixing bowl	m
+mobile home	m
+Model T	M
+modem	m
+monastery	m
+monitor	m
+moped	m
+mortar	m
+mortarboard	m
+mosque	m
+mosquito net	m
+motor scooter	m
+mountain bike	m
+mountain tent	m
+mouse	m
+mousetrap	m
+moving van	m
+muzzle	m
+nail	n
+neck brace	n
+necklace	n
+nipple	n
+notebook	n
+obelisk	o
+oboe	o
+ocarina	o
+odometer	o
+oil filter	o
+organ	o
+oscilloscope	o
+overskirt	o
+oxcart	o
+oxygen mask	o
+packet	p
+paddle	p
+paddlewheel	p
+padlock	p
+paintbrush	p
+pajama	p
+palace	p
+panpipe	p
+paper towel	p
+parachute	p
+parallel bars	p
+park bench	p
+parking meter	p
+passenger car	p
+patio	p
+pay-phone	p
+pedestal	p
+pencil box	p
+pencil sharpener	p
+perfume	p
+Petri dish	P
+photocopier	p
+pick	p
+pickelhaube	p
+picket fence	p
+pickup	p
+pier	p
+piggy bank	p
+pill bottle	p
+pillow	p
+ping-pong ball	p
+pinwheel	p
+pirate	p
+pitcher	p
+plane	p
+planetarium	p
+plastic bag	p
+plate rack	p
+plow	p
+plunger	p
+Polaroid camera	P
+pole	p
+police van	p
+poncho	p
+pool table	p
+pop bottle	p
+pot	p
+potter's wheel	p
+power drill	p
+prayer rug	p
+printer	p
+prison	p
+projectile	p
+projector	p
+puck	p
+punching bag	p
+purse	p
+quill	q
+quilt	q
+racer	r
+racket	r
+radiator	r
+radio	r
+radio telescope	r
+rain barrel	r
+recreational vehicle	r
+reel	r
+reflex camera	r
+refrigerator	r
+remote control	r
+restaurant	r
+revolver	r
+rifle	r
+rocking chair	r
+rotisserie	r
+rubber eraser	r
+rugby ball	r
+rule	r
+running shoe	r
+safe	s
+safety pin	s
+saltshaker	s
+sandal	s
+sarong	s
+sax	s
+scabbard	s
+scale	s
+school bus	s
+schooner	s
+scoreboard	s
+screen	s
+screw	s
+screwdriver	s
+seat belt	s
+sewing machine	s
+shield	s
+shoe shop	s
+shoji	s
+shopping basket	s
+shopping cart	s
+shovel	s
+shower cap	s
+shower curtain	s
+ski	s
+ski mask	s
+sleeping bag	s
+slide rule	s
+sliding door	s
+slot	s
+snorkel	s
+snowmobile	s
+snowplow	s
+soap dispenser	s
+soccer ball	s
+sock	s
+solar dish	s
+sombrero	s
+soup bowl	s
+space bar	s
+space heater	s
+space shuttle	s
+spatula	s
+speedboat	s
+spider web	s
+spindle	s
+sports car	s
+spotlight	s
+stage	s
+steam locomotive	s
+steel arch bridge	s
+steel drum	s
+stethoscope	s
+stole	s
+stone wall	s
+stopwatch	s
+stove	s
+strainer	s
+streetcar	s
+stretcher	s
+studio couch	s
+stupa	s
+submarine	s
+suit	s
+sundial	s
+sunglass	s
+sunglasses	s
+sunscreen	s
+suspension bridge	s
+swab	s
+sweatshirt	s
+swimming trunks	s
+swing	s
+switch	s
+syringe	s
+table lamp	t
+tank	t
+tape player	t
+teapot	t
+teddy	t
+television	t
+tennis ball	t
+thatch	t
+theater curtain	t
+thimble	t
+thresher	t
+throne	t
+tile roof	t
+toaster	t
+tobacco shop	t
+toilet seat	t
+torch	t
+totem pole	t
+tow truck	t
+toyshop	t
+tractor	t
+trailer truck	t
+tray	t
+trench coat	t
+tricycle	t
+trimaran	t
+tripod	t
+triumphal arch	t
+trolleybus	t
+trombone	t
+tub	t
+turnstile	t
+typewriter keyboard	t
+umbrella	u
+unicycle	u
+upright	u
+vacuum	v
+vase	v
+vault	v
+velvet	v
+vending machine	v
+vestment	v
+viaduct	v
+violin	v
+volleyball	v
+waffle iron	w
+wall clock	w
+wallet	w
+wardrobe	w
+warplane	w
+washbasin	w
+washer	w
+water bottle	w
+water jug	w
+water tower	w
+whiskey jug	w
+whistle	w
+wig	w
+window screen	w
+window shade	w
+Windsor tie	W
+wine bottle	w
+wing	w
+wok	w
+wooden spoon	w
+wool	w
+worm fence	w
+wreck	w
+yawl	y
+yurt	y
+web site	w
+comic book	c
+crossword puzzle	c
+street sign	s
+traffic light	t
+book jacket	b
+menu	m
+plate	p
+guacamole	g
+consomme	c
+hot pot	h
+trifle	t
+ice cream	i
+ice lolly	i
+French loaf	F
+bagel	b
+pretzel	p
+cheeseburger	c
+hotdog	h
+mashed potato	m
+head cabbage	h
+broccoli	b
+cauliflower	c
+zucchini	z
+spaghetti squash	s
+acorn squash	a
+butternut squash	b
+cucumber	c
+artichoke	a
+bell pepper	b
+cardoon	c
+mushroom	m
+Granny Smith	G
+strawberry	s
+orange	o
+lemon	l
+fig	f
+pineapple	p
+banana	b
+jackfruit	j
+custard apple	c
+pomegranate	p
+hay	h
+carbonara	c
+chocolate sauce	c
+dough	d
+meat loaf	m
+pizza	p
+potpie	p
+burrito	b
+red wine	r
+espresso	e
+cup	c
+eggnog	e
+alp	a
+bubble	b
+cliff	c
+coral reef	c
+geyser	g
+lakeside	l
+promontory	p
+sandbar	s
+seashore	s
+valley	v
+volcano	v
+ballplayer	b
+groom	g
+scuba diver	s
+rapeseed	r
+daisy	d
+yellow lady's slipper	y
+corn	c
+acorn	a
+hip	h
+buckeye	b
+coral fungus	c
+agaric	a
+gyromitra	g
+stinkhorn	s
+earthstar	e
+hen-of-the-woods	h
+othersA	othersA
+othersB	othersB
+othersC	othersC
+othersAB	othersAB
+othersAC	othersAC
+othersBC	othersBC

@@ -1,0 +1,6 @@
+gradle
+gradlew
+gradlew.bat
+**/*.iml*/**
+*.iml*/**
+scalable-nn.iml tf-demo.iml
